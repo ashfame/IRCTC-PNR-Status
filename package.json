@@ -1,0 +1,11 @@
+{
+	"name": "IRCTC-PNR-Status",
+	"author": "Ashfame <mail@ashfame.com>",
+	"description": "NodeJS poller to check PNR status on IRCTC website in a terminal till the seat gets confirmed",
+	"version": "0.1",
+	"dependencies": {
+		"request": "",
+		"jsdom": "",
+		"events": ""
+	}
+}
